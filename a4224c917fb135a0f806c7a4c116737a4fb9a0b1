@@ -1,0 +1,1 @@
+{"jobID":"7b4f52e1-e7f2-7366-062b-b3736d7c9c85","spec":{"type":"policy","cause":{"Message":"","User":"Milan Procházka \u003cprochazka.m84@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
